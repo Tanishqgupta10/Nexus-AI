@@ -26,6 +26,29 @@ Nexus AI is a local-first AI agent platform built with Python, Streamlit, Ollama
 - Agent observability and telemetry
 - Production portfolio dashboard
 
+- ## 📸 Screenshots
+
+### 🏠 Nexus AI Dashboard
+![Nexus AI Dashboard](dashboard.png)
+
+### 🤖 Agent Mission
+![Agent Mission](agent-mission.png)
+
+### 🎯 Goal-Based Autonomous Planner
+![Goal Planner](goal-planner.png)
+
+### 🛡️ Production Security
+![Production Security](production-security.png)
+
+### 📊 Agent Observatory
+![Agent Observatory](agent-observatory.png)
+
+### 🧠 Historical Mission Memory & Analytics
+![Memory and Analytics](memory-analytics.png)
+
+### 🏆 Agent Benchmark — 5/5, 100/100
+![Benchmark](benchmark.png)
+
 ## Architecture
 
 ```text
