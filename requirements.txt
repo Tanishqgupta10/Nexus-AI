@@ -1,0 +1,6 @@
+streamlit
+ollama
+requests
+beautifulsoup4
+pypdf
+python-docx
